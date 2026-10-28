@@ -1,0 +1,1 @@
+OpenApi generated API contracts.
