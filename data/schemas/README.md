@@ -1,0 +1,1 @@
+JSON schema of effect format
