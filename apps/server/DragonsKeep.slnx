@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DragonsKeep.Api/DragonsKeep.Api.csproj" />
+    <Project Path="src/DragonsKeep.Dice/DragonsKeep.Dice.csproj" />
+    <Project Path="src/DragonsKeep.Infrastructure/DragonsKeep.Infrastructure.csproj" />
+    <Project Path="src/DragonsKeep.Rules/DragonsKeep.Rules.csproj" />
+    <Project Path="src/DragonsKeep.SrdImport/DragonsKeep.SrdImport.csproj" />
+    <Project Path="src/DragonsKeep.Vision/DragonsKeep.Vision.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DragonsKeep.Api.Tests/DragonsKeep.Api.Tests.csproj" />
+    <Project Path="tests/DragonsKeep.Dice.Tests/DragonsKeep.Dice.Tests.csproj" />
+    <Project Path="tests/DragonsKeep.Rules.Tests/DragonsKeep.Rules.Tests.csproj" />
+    <Project Path="tests/DragonsKeep.Vision.Tests/DragonsKeep.Vision.Tests.csproj" />
+  </Folder>
+</Solution>
